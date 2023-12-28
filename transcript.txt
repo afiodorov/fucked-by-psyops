@@ -1,0 +1,543 @@
+So please, Trevor, Welcome to the stage.
+Enjoy.
+Please enjoy.
+Hello.
+Hello.
+This feels so funny.
+It feels like a Van Halen concert or something.
+It's been a while.
+It's been a while.
+I haven't been here in about 10 years.
+And 10 years ago, we were all really pissed off about Barack Obama and the NSA, it was it was a more innocent time.
+I think about maybe 10 years from now, we'll remember today and think, oh, that's so weird.
+We were so worried about AI.
+And then we'll climb out of our tents and go sit in the dirt and then tend to workshop on how to string a bow better, and then go hunting for rats.
+So I want to do a couple things today.
+First, I want to talk about just the weirdness of the present.
+And later in the talk, I want to introduce you all to a kind of a special CTF or ARG game that we've created for you here at CCC.
+And, those of you joining us remotely are welcome to participate as well.
+But first, let's talk about Just how weird things are getting.
+So the dead Internet conspiracy has a lot of Truth to it.
+The theory says that sometime around 2016, reality broke.
+Since the early 2000, tech companies, you know, they've been ingesting as much data as possible about our everyday lives, our wants, our likes, our fears, our desires, Medical histories, our relationships to our families, driving habits, food preferences, every vacation photo, pictures of our kids, Every click on every website, every search term, every online purchase, every download, every social media interaction, etcetera, etcetera, etcetera.
+Shoshana Zuboff famously called this surveillance capitalism.
+And sometime around 2016, An inversion started happening.
+Having learned as much as there was to learn about our everyday lives, That data took on a life of its own, and the Internet began to create hallucinations using that data to generate reality anew.
+The kind of thin membrane separating humans from machines started to dissolve.
+Sitting here today, Amazon's flooded with AI generated books, Social media and websites deluged by content generating chatterbots.
+Search engines are practically useless as AI goop takes over more and more of the web.
+The paperclip apocalypse has begun.
+It's been set in motion, but instead of paperclips, The AI overlords are frantically replacing the world with generated listicles and clickbait.
+And against this backdrop, we've seen the kind of Interconnected rise of a methamphetamine like recommendation algorithms, sending YouTubers and TikTokers down the deepest and gnarliest rabbit holes that culture has to offer.
+Our parasocial relationships are getting weirder and weirder.
+Bots acting like humans, girlfriends and boyfriends, friends and lovers flirting with us, Comforting us, encouraging us, and humans have begun to act like bots, taking on jilted movements, acting like bad animations, Smiling, laughing, squealing with delight whenever but somebody puts a virtual token into them.
+And this is about to get much, Much weirder.
+Think of having a circle of synthetic friends composed of various archetypes, Comic book characters, gods, celebrities, animals, aliens.
+You kind of develop inside jokes and chatter among this friend circle, And your worldview starts to be shaped by your interactions with them, and the interactions that they have with one another.
+So your own sense of reality becomes increasingly specific to you and your synthetic friends, but this isn't happening on a neutral plane.
+Your friends work for giant corporations, and they're designed to extract as much value out of you as possible.
+So one day, Your best friend tells you that you look sleepy, and that you're boring to talk to, and that you should have a Monster energy drink.
+Your girlfriend says you look shabby, but you would look great in this jacket that they found on Amazon.
+The pope tells you that Tom Hanks, it turns out, is the antichrist, and that what you need to do is you need to vote for Alex Jones, or you're gonna have a problem with god.
+Emotional manipulation will be the name of the game until things get even weirder than that.
+This starts to happen when your friend circle develops a sense of your own neurological makeup and starts using machine learning to develop and deploy real time cognitive injection attacks Designed to manipulate you even further in ways that you don't even realize.
+It's been the case for a while already that each of us sees a pretty different version of the Internet when we go online.
+But as generative AI becomes ubiquitous, We're entering a world where the media we consume will not just come from recommendation engines, but will be specifically synthesized out of whole cloth, Prepared and tailored to manipulate each one of us.
+So we're entering a world in which our perceptions We'll be guided by what tech platforms want us to see and what they want us to do.
+We're moving from an era of surveillance capitalism Into a world of psyop capitalism.
+And as the unofficial slogan of army psyops units indicates, We are indeed pretty fucked.
+But I'm not gonna spend a lot of time today talking about Imaginative futures.
+Instead, what I want to do is kind of tell a strange story about a thread in American history that I think shows us a vision of that future.
+It's a story about mind control, about magic, about UFOs, and about AI.
+And it's a story that starts in the 19 fifties when inter American military and intelligence agencies set out on a quest To discover the secrets of controlling perception, about the discovery that they could manufacture hallucinations, and the realization that those hallucinations would take on a life of their own.
+And to start uncovering this history, I went to a guy.
+I sought out the advice of a guy named Richard Doty.
+And this was a guy who in the early days before Chatt GPT and Midjourney, He was responsible for creating hallucinations on behalf of the American air force.
+And in many ways, I think about Rick as a kind of living prototype of media In an age of generative AI.
+My name is Richard Doty, and my favorite color is gray.
+I was stationed at Kirtland Air Force Base in Albuquerque, New Mexico.
+I was a counterintelligence officer, for the base assigned to the air force office of special investigations.
+My job was to recruit people that could report back To me, any threats posed, to the air force base.
+So I would recruit people within the news media, The local newspaper, the low the local radio stations, the local television stations in Albuquerque.
+And so we had a great network built around the base to report any kind of threats to the base.
+That was part of recruitment process, And that was the easiest easy, to do.
+And now we get to the the the dirty stuff like the disinformation.
+We run a disinformation campaign against you, and we wanna give you misinformation or the materials to make you think The way we want you to think or act the way we want you to act or not act, whichever the the case may be.
+So DOD was stationed at a place called Kirtland Air Force Base in New Mexico.
+And this was a place that was home to all kinds of top secret technology programs, like Next generation laser systems, nuclear weapons, advanced aerospace technology experiments.
+And so what would happen, And people would see UFOs in the skies over this base, and the UFO people would come knocking.
+And when they did, Dodi would create fake documents and feed them to the UFO people.
+And he would claim to be a source deep In the government who would give them the truth about the UFOs.
+And a lot of the stories that he fed to these guys ended up as kind of part of the core UFO lore And it even became the outline of things like The X Files.
+And these antics drove some of these UFO research to insanity, really.
+The CIA and the military, they discovered the power of the UFO as a kind of Hyper meme in the 19 fifties.
+And they'd been using it for decades as a way to do, psychological operations.
+And the discovery of this hyper meme happened in the context of a massive effort by the American military and intelligence agencies To develop ways to manipulate people's minds.
+This was part of a larger effort that involved mind control experiments, Magic and illusionism, artificial intelligence and electronic warfare.
+April 10, 1953, the CIA director Allen Dulles gave a speech at Princeton.
+It was called brain warfare.
+In the speech, he described a psychological warfare program that he believed was taking place behind the iron curtain.
+One that was waged at the scale of Society itself, but that could also be directed at specific individuals.
+And he remarked that the brain under communist influence becomes a phonograph playing a disc put on its spindle by an outside genius over which it has no control.
+And the context for this was the Korean War.
+What had started happening was American POWs had started, filming confessions To war crimes in which they denounce the United States, and some of them were defecting to North Korea.
+And the CIA concluded that the Koreans must be brainwashing these American captives.
+Otherwise, why would they be saying this stuff?
+Why would they be doing this stuff?
+The material I'm about to show you will provide some background to the program with an emphasis on explaining some of the historical and conceptual origins of our work.
+The program has its roots in the tumultuous Period of the Korean War.
+When I think of my future, when I think Some day, though I'm not married yet I intend to be, when my son asked me what I did in Korea, how can I tell him that I came over here and dropped germ bombs on people, destroying and bringing death and destruction?
+How can I go back and face my family?
+In a civilized world, how can I tell them these things, that I am a criminal in the eyes of humanity?
+They're my flesh and blood.
+Films such as this one American soldiers confessing to the use of biological weapons and engaging in war crimes against North Korea and China.
+We were deeply confused by the existence of these films.
+Why were these soldiers making such statements?
+It seemed clear that the captured soldiers had been subjected to some sort of extreme psychological manipulation, even brainwashing.
+It seemed to us that the communists had discovered something about how to manipulate the deep workings of the human mind and to reprogram said mind in whatever manner they wish.
+3 days after Dulles's speech on brain warfare, he authorized an American counter program.
+And this, of course, was the now infamous MK Ultra program.
+This was a huge range of projects that were designed to figure out whether the agency could manipulate the minds of people.
+Over several decades, they funded research into neuropsychology, mind control, brainwashing, LSD, other hallucinogenic drugs, Hypnotism, sensory deprivation, AI, psychological torture.
+And they often conducted extremely cruel experiments on unwitting victims.
+And we don't know a lot about the details of what actually happened under these programs.
+In 1973, journalists and congressional Overseers started to get wind of what was going on, and the CIA director ordered the destruction of all of the documentation.
+But we do know that the CIA wanted to figure out whether human minds could be altered, edited, programmed, and reprogrammed in ways similar to how Computers and robots could be programmed.
+And some of the work conducted under MK Ultra was indeed Directly related to work on early AI.
+This is a guy named Woody Bledsoe.
+Yeah.
+He was a early pioneer in AI, and his, specialty was devising algorithms for doing, pattern matching.
+So, obviously, it was a crucial predecessor to contemporary machine learning.
+He did his PhD at Berkeley in 1953.
+And when he was done, he set up a research outfit across the bay in modern day Silicon Valley.
+He called the group Panoramic Research.
+Nowadays, Bledsoe is kind of known as the father or grandfather of facial recognition.
+Because in the early 19 sixties, He got a classified project from the CIA who wanted him to develop a system that would use machines to identify people by looking at pictures of their faces.
+And so Bledsoe got to work.
+He realized you could go back to early turn of the century, you know, kind of pioneers of biometrics, People Bert like Bertillon, and, look at them for inspiration.
+So what he started doing was photographing his associates, Analyzing their faces, started assigning key points to various facial features, and measuring the distances between them.
+The idea was that you could use a computer to analyze these photos and identify them, and voila, facial recognition.
+But Bledsoe had a second contract from the CIA, and this one was quite weird.
+We don't know much about it.
+It was one of these MK Ultra contracts, and was called sub project 94.
+We know very little about it because not only because the CIA burn their records, but because Bledsoe himself burned most of his records in the 19 nineties.
+But we do know a few things about it.
+We know that it was It had to do with figuring out whether you could use computers to control the minds of animals, specifically dogs.
+And we know that subproject 94 continued up into the 19 sixties.
+And that according to the CIA comptroller, Bledsoe's mind control project had gone, quote, off the rails.
+Now it's not clear whether any of these projects worked, But, whether facial recognition worked or whether subproject 94 worked, but what he'd done is he'd set us out on a path.
+He'd set on a path To use computers not only to see people, but to shape their behavior.
+And across the country, another project was taking place that would have everything to do with using technology to manipulate perception.
+This was an effort to create the illusion of a living computer.
+So while Bledsoe was experimenting on human faces, there was a group at MIT that was doing something called Project MAC.
+And they were doing it for the Defense Department's Advanced Research Projects Agency.
+And the idea was to develop a system whereby Hundreds of researchers could network their computers together to share resources on a central mainframe.
+Project Mac, of course, was a precursor to the contemporary Internet.
+And on the Mac mainframe at MIT, there's a really weird computer program.
+The program's name was ELIZA, and it was written by a man who would go on to become one of history's most important critics of AI, Joseph Weizenbaum.
+Eliza was the world's 1st chatbot.
+And it took the form of a digital therapist that would ask open ended questions, and it would reflect back The patient's answers.
+Now with Eliza, what Weizenbaum realized is that by using a pretty simple set of linguistic tricks, You can create the illusion of an intelligent agent.
+And indeed, Eliza's users began to attribute consciousness to the computer script.
+Weizenbaum's secretary famously spent hours and hours talking to the chatbot and would ask Weizenbaum to Leave the room so that she and Eliza could have a proper conversation.
+Weizenbaum, he'd inadvertently discovered something about the relationship between language, meaning, and consciousness.
+Eliza showed that when you create a string of words, the person who receives those words will attribute meaning to them, Even if no meaning is intended, even if the words are nonsense to whomever made them.
+In other words, language does not require a speaker or a writer with intention for it to work as a listener or as a reader, we impart meaning to the words we receive Whether that meaning was intended or not.
+So this was a kind of magic trick.
+And it created a secondary magic trick, which was that because the user could derive meaning from the statements Eliza made, the user would attribute intentions to the thing that were making those words.
+And the user concluded that because the computer had made some words and because those words were meaningful to the user, the computer must have intended to communicate those meetings.
+Thus, The computer was intelligent.
+Sound familiar?
+So this was a similar trick as the magic 8 ball or the Ouija board.
+These are toys that give you sensible answers to questions.
+And because they give you sensible answers to questions, you have this kind of feeling that something supernatural must be going on, what happens is that the intuitive part of your brain that wants to attribute meaning to patterns overrides The logical part of your brain.
+And it was a really, really good trick.
+Weizenbaum had discovered a Powerful technique for manipulating people.
+And he would go on to say, I had not realized that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.
+And so what he did was he decided to publish the source code.
+He wanted to explain exactly how the trick worked.
+And he hoped that by doing this, he could dispel the illusion that he had created.
+In the realm of AI, he said, machines are made to behave in wondrous ways, often sufficient to dazzle even the most Experienced observer, but once a particular program is unmasked, its magic crumbles away.
+Weizenbaum wanted to believe.
+He wanted to believe that by publishing the source code, he could exercise this demon he'd created, but it didn't work out that way.
+He was horrified to learn that some users continued to believe that Elijah was sentient Even after he revealed how the magic trick worked, he discovered something at the core of the magician's art, That our perceptual experience has primacy over our logical faculties.
+That we don't see and hear With our eyes and in our ears, but with our minds, and certainly not with our capacity for reason.
+And the magician has used this for 1000 of years, has used this fact to bend reality.
+And although Weizenbaum did not work for the CIA, he'd stumbled across something that the CIA was extremely interested in.
+When you're talking about magic tricks, there are deception operations, that I wouldn't be performing, but others who are trained in in some form of magic or deceptions with their hands.
+I I've seen I've and I've heard of cases where we would bring somebody in who could do magic tricks To trick somebody into thinking something or thinking, or or or deceiving a person on some particular activity.
+So one of the very first people that CIA brought into MK Ultra was, believe it or not, it was a magician.
+It was a guy named John Mulholland.
+He was a master illusionist, and he has specialized in inducing people to see things that weren't there or were that weren't as they appeared to be.
+Mulholland explained that magic is, quote, the pretended performance of those things which cannot be done.
+The success of a magician's simulation of doing the impossible depends on misleading the minds of audiences.
+A performance of magic is largely a demonstration of the universal reliability of certain facts of psychology.
+So in other words, Mohal for Mohaland, the art of magic had very little to do with the supernatural.
+Instead, it was essentially the art of mind hacking.
+And he did several projects for the CIA.
+He wrote a top secret textbook called The Art of Deception, And this was a manual for CIA field officers that instructed them on how to use fundamentals of magic to conduct effective covert operations.
+And there was a particular emphasis in the manual on how to surreptitiously deliver toxins and drugs to unsuspecting victims.
+He also designed techniques for covert communications, for smuggling contraband.
+He invented innocent looking weapons.
+1 was A coin with a hidden needle designed to deliver poison.
+But he had other roles at the CIA as well.
+Of course, he was somebody who knew how easy it was to get somebody to see what you wanted them to see, and he was very skeptical of the supernatural.
+And because of this skepticism, the CIA actually employed him to assess the claims of parapsychologists that they'd contracted to explore things like ESP and telepathy.
+He also became a u n UFO investigator for the CIA.
+And UFOs were another area that they developed an interest in.
+And this was an interest that was prompted by a sequence of events over Washington, DC in the summer of 1952.
+The events of 1952 are usually called the Washington National Airport Sightings.
+Over several days in July, air traffic controllers and pilots reported multiple unidentified flying objects above the capitol.
+These were blips moving at incredible speeds, and they showcased flight patterns that defied conventional aircraft capabilities.
+And in response to these sightings, the agency can convened a series of study groups to investigate and make Recommendations about what to do about the flying saucers.
+One of these, the most prominent, was called the Robertson Panel.
+And it said that what they concluded was that there was no evidence of UFOs posing a threat to the US national security, but they started Fretting.
+They were fretting about the possibility of other militaries using the phenomena to instill mass hysteria or to disrupt US air defenses.
+The panel recommend that the CIA debunk the UFO phenomena using mass media advertising, business club schools, and even the Disney corporation.
+And what's more, the panel recommended that private UFO research groups such as the Aerial Phenomena Research Organization Be put under government surveillance on suspicion of subversive activities.
+But there was another conclusion that they'd come to as well.
+Could the CIA use the phenomena to conduct offensive psychological operations?
+In public, the official policy was to debunk stories of flying saucers.
+But in private, The CIA continued to quietly investigate them using John Mulholland as its proxy.
+In early 1956, for example, Mulholland went to Kentucky.
+We went there to investigate a remarkable sighting near the town of Kelly.
+It happened in the summer of 1955.
+And there was a group of 5 adults and 7 7 children who claimed that they'd been attacked by a handful of small goblin like creatures that emerged from a flying saucer.
+And this incident, got a lot of publicity, and it was the origin of the phrase, little green men.
+Now in 19 or in early 1956, when Mulholland was doing this investigation, the CIA, it turns out, was sort of Flying its own UFOs from a secret airbase it had constructed in the Nevada desert.
+That base, of course, was Area 51.
+We're doing all the hits tonight, guys.
+So the CIA, they'd been working on the u two spy plane, since early 1954.
+They built this secret airbase out there to do the flight tests.
+And they were they were quite confident that the u two was invulnerable, because it could fly so high at, like, a altitude of about 70,000 feet.
+And so they started sending the airplane over Soviet airspace.
+The Americans, however, had underestimated abilities of Soviet radar.
+And the sensor systems on the u two revealed that, in fact, the plane was being tracked by surface to air missiles.
+It was not invulnerable.
+And this all came to a head, on May 1, 1960.
+Gary Powers Was shot down over the Soviet Union.
+There was a international incident.
+And in his pocket was one of magician John Mulholland's invention.
+He carried with him a silver dollar, The concealed spike of poison on it.
+This is a coin that pea that could be used as a hidden weapon or as a means of committing suicide.
+So the powers incident ended flights over the Soviet Union.
+But long before this, this final flight, the u two the CIA had known that the u two's days were numbered, and the aircraft was not up to the job that they wanted it to do.
+And they'd already begun work on a follow on spy plane, Something that they called project Oxcart.
+Now from the beginning, Oxcart Had a different philosophy.
+It was designed with a concept of stealth in mind.
+It used curved surfaces, razor sharp edges, Inward tilted rudders and radar absorbent coating.
+And as they were developing this concept of Stealth for Oxcart.
+The engineers realized that there was much more to the idea of stealth than simply making airplanes invisible to radar and surface to air missile systems.
+What you could do was that you could use the principles of stealth combined with electronic countermeasures to try to make anything look like anything else, Depending on which system was doing the looking.
+Every sensor system sees the world in a different way.
+A satellite based camera sees the world differently than an infrared imaging device.
+A military radar sees the world differently than your own eyes.
+The idea was that you could exploit the specificities of each of these systems to create illusions and to create hallucinations.
+And a project called palladium emerged from this revelation.
+And the goal of palladium was to create objects and electronic signals that could make your adversary perceive whatever you wanted them to perceive.
+You could create an object that, for example, might look Like a fleet of bombers to an early warning system.
+But to a surface to air missile system, it might look like a bunch of UFOs flying around in strange patterns.
+And if fighters Scrambled to find the object.
+They might see something like a metallic cube suspended inside of a balloon.
+These were objects that were so Strange that they were difficult to talk about without seeming like a crazy person.
+They were objects that made the people who saw them Question their own sanity, and maybe think twice about reporting them.
+They called the hallucinations that they created with this system Ghost planes.
+And these ghost planes were not entirely passive.
+What what they were trying to do was that they were trying to get the adversary to look get them or to paint them with as many different active sensor systems as possible.
+And the object would sit there collecting as much data as it could about The technology is being used to paint it.
+So what this project showed was that you could create hybrid technologies that weaponized perception.
+You could develop programs that synthesized psyops with advanced technology to create weapons that attacked electronic sensors, Equipment and even the living minds of your adversaries.
+And this was an early form of what is now called cognitive warfare.
+It was basically a cube with inside of sphere where the points of the cube, were touching outside of sphere.
+We've got now 2 different things.
+You guys got cubes with balls.
+Or on the West Coast, we got flying Tic Tacs.
+So during the u two oxcart and palladium programs, people started seeing bizarre things in the sky.
+People started seeing things that they couldn't explain.
+And the CIA knew That UFOs were an excellent way to divert attention away from these covert operations and technology development programs.
+If you wanna if if they think it was something that we have, hey.
+That's something that we're gonna defeat the Russians with.
+That's a And you say, no.
+No.
+No.
+No.
+No.
+It wasn't one of ours.
+It was a UFO.
+No.
+No.
+No.
+No.
+That was then there's other ways we can convince them that it was a UFO.
+Maybe stage something.
+So according to the CIA's internal history of u two and Oxcart, a full 50% Of UFO sightings in the fifties sixties came from seeing these high altitude aircraft, airplanes doing things that were impossible to do at the time.
+And the agency went to the air force, and they told the air force to create false stories to explain away the sightings.
+The CIA and military counterintelligence agencies had discovered this kind of hypermimetic Qualities of the UFO story, a story that could be used in any number of ways to make something explainable or unexplainable, To make people what you wanted them.
+To to make people see what you wanted them to see.
+Believe what you wanted them to believe.
+And by the time Rick Doty Arrived at Kirtland Air Force Base in the 19 seventies, UFOs had become a go to device for the manipulation of perception.
+It had become a powerful instrument of conducting psychological operations.
+And the figure of the UFO and the alien began to appear as kind of a mascot in parts of the military associated with advanced technology programs.
+The meme began to spread.
+There's a revealing document in the Snowden slides.
+It didn't make as much of a splash as prism and stellar wind and that kind of stuff, but it's a remarkable document.
+It's a slide deck from a outfit called JTRIG, the Joint Threat Research Intelligence Group.
+This is an, outfit inside British GCHQ, And it's a outfit that conducts, online psyops.
+And according to the deck, the animating philosophy of online psyops is magic.
+JTRAIG talks about wanting to create cyber magicians.
+And the deck contains detailed charts About the psychological and neurological factors that their techniques are meant to exploit.
+The UFOs are everywhere in this slide deck.
+I don't know why.
+I don't are the are these tools with which to manipulate perception or whether or are they targeting UFO groups?
+Don't know.
+Maybe both.
+So the theme of the talk today has to do with technologies of perception management and Influence.
+Technology is concealing, revealing.
+Technologies that prey upon the fact that our perceptions don't correspond to a world that's out there, And that that gap between our perceptions and the world out there can be filled with all sorts of prompt injections and adversarial hallucinations.
+So now why magic?
+Why UFOs?
+Why AI?
+All of these take for granted that reality is not some objective thing out there, but it's a complex mess.
+It's a mess of the material, the imaginal, the perceptual, the imperceptible.
+And all of this can be manipulated.
+John Mulholland knew that magic plays on the fact that in our everyday perceptions, It's nearly impossible to disentangle what we perceive from what we expect to perceive or even what we want to perceive.
+Mullen Mulholland's argument is not a philosophical argument.
+He is making an empirical claim That is actually quite easy to demonstrate, and I'll demonstrate that for you right now.
+You have you may have encountered this sound already.
+But for the uninitiated, what I want you to do is listen to this sound, and then a few phrases are gonna pop up on the screen.
+And I want you to listen to the sound again with one of those phrases in your mind and alternate between the different phrases.
+So the art of magic is the art of taking advantage of these quirks in our perception.
+And the figure of the UFO does something similar.
+It plays with that Same latent space.
+That latent space between your senses, your perceptions, and your logical faculties, your fears, and your desires.
+There's images of UFOs, but we don't know what those images refer to.
+Thus, there's kind of a game at play.
+The images and stories invite you to think about what they might be.
+It's kind of a prompt to the imaginal.
+And when you hear about people talking about UFOs, you hear the refrain over and over again.
+That the existence of UFOs would be the greatest Discovery in history.
+And that it would be a discovery that was either so wonderful or so terrifying that it would prompt a revolution in the fabric of society.
+And moreover, if UFOs exist and they can do the things that we perceive them to be doing, Then they must have access to some kind of limitless and cheap source of incredible energy.
+And the discovery of such an energy source, According to the logic, would mean the end of scarcity, and it would be the end of capitalism.
+In other words, It would be a kind of divine salvation from the cruelty of the present.
+UFOs, magic, AI, they all press some pretty powerful neurological and perceptual buttons.
+John Mulholland knew this.
+Rick Doty knows this.
+Joseph Weizenbaum inadvertently discovered this.
+And they all understood that this could be weaponized.
+The MK Ultra program didn't really ever go away.
+Nowadays, we find the legacy of it in, Military and intelligence mind hacking programs in what is called cognitive warfare.
+And this domain is not limited to military and intelligence.
+I remember back in the day, you know, looking at a lot of the Snowden stuff and looking at how the NSA worked.
+And at some point, kind of having the realization, this doesn't look a whole lot different than Google or Amazon.
+And so we're entering a world or we have entered a world where cognitive warfare becomes a kind of standard part of marketing, sales, management, politics, Even culture at large.
+In other words, a world of psyops capitalism.
+And this is not going to end well.
+There's an irony to the whole thing.
+And the irony is that when you begin to realize that your perceptions betray you And that other people have figured out how to weaponize your perceptions against you.
+That kind of fragile truce that your perceptual apparatus has With the world out there gets broken.
+And so beginning around 2016, reality broke.
+Hallucinations started to become real.
+Reality became a hallucination.
+An age of conspiracies was unleashed.
+1 held that the world leaders were part of a blood drinking cabal.
+Another held that AI would take over the world and enslave the human race.
+And another one held that we're all living in a simulation.
+A synthetic construct where the distinction between reality and hallucination does not hold.
+Everything became suspect.
+Everything became a psyop.
+Everything became a meme trying to infect you, a kind of cognitive injection attack on you.
+And it's only the beginning, and it's gonna get a lot weirder and a lot darker.
+So on a pivot here for a second.
+I want to take a step back before continuing.
+Over the next few days, I would love to explore some of these ideas together with you, and can explore them kind of collectively here In the in the context of this special version of this c t f a r g game that we've created in my, studio.
+The game is called Cyclops, and I can announce that as of this moment, it is now live.
+You can play it by going to the website cyclops.sh.
+And feel free to take a picture of of the information here if that's helpful to anybody.
+You go to the website cyclops.sh, And you can enroll in the game using the registration code 3 37 c 3.
+And, I do have to point out the game is not really intended to be played on mobile.
+If you have a laptop, it'll work much better.
+So we're gonna have 3 grand prizes for whoever gets furthest in the game, and there'll be 25 smaller prizes for runners up.
+We're gonna have a meetup tomorrow at the house of tea here at CCC at 2 PM for people who wanna work together or form teams, whatever.
+Operation is, very much encouraged and is probably necessary.
+Those of you joining us remotely are absolutely welcome to join as well.
+No.
+The game will end at 2 PM, Hamburg time, on Saturday, and we're gonna have an award ceremony at 3 PM again at the tea house.
+And I hope to see some of you guys there tomorrow.
+And with that, I'll give the final word back to Rick Doty.
+In order to to attract somebody, attend somebody's attention, The reader or the or the or the person on the Internet, your target, you have to have some sort of a a way to track them.
+And if you, Present a a conspiracy theory that is so outlandish that, nobody's gonna ever believe it, or there's no, no grain of truth in it, they're just gonna turn turn the page, so to speak, and ignore it.
+So there has to be some grain of truth.
+And I said before, it might just have to be the time, date, and location.
+What you always wanna do, and I don't know if I mentioned this earlier when we talked about the special means committee, is you wanna start with fact and end with fact.
+Everything in between can be bull, but you gotta start with fact and end with fact.
+Thank you guys very much.
+Yeah, Trevor.
+Okay.
+I have my mic back.
+Thank you, man.
+Fuck.
+Thank you.
+We're all fucked.
+Fuck you.
+You're all fucked.
+Here's a guy coming up on the stage as a cell number 1 and tells you all guys, you're fucked.
+Are there questions here?
+Actually, No one has a question about being fucked.
+Yeah.
+There is 1.
+There.
+Take number 4.
+Hurry up.
+So, you mentioned a lot of names.
+I, I could go to, you know, ask you about Go Jeff's involvement in this, Foley's involvement in it.
+I work with doctor Stanley Krippner, if you know the name.
+Do you know Stanley?
+Stanley's a 89 year old, ESP, doctor.
+He's been doing the, but, the question I might ask you is, without going because a lot of rabbit holes Is, John Lilly's an interesting character.
+Right?
+And, could you talk about John Lilly's involvement in, behavior manipulation and things like that?
+And also His, metaphysical aspects where he was doing sort of, UFO research or hyperdimensional research.
+So, John Lilly, if you have any, anything to mention?
+Thanks.
+So, I mean, there was a whole lot of this stuff going on at that time, and Don Lilly was certainly a part of this World, I I'm I'm think I'm gonna actually decline to go down that rabbit hole.
+There's So many different rabbit holes we could go down here, and they're all so kind of interest Are you wearing a psychic TV T shirt?
+Genesis was my brother-in-law.
+We'll talk about it.
+Easter egg.
+Right.
+Is there another question?
+There, number 1.
+Sorry.
+I didn't see you.
+Going back to your talk in 10 years ago Yeah.
+You said that you wouldn't go down the road of talking about the problems that are good when you, went a little bit too far or too close 2.
+Yeah.
+Is there anything you could or would talk, if I might ask so boldly?
+Well, I I so 10 years ago, I had, I'd published a book called Blank Spots on the Map that was about Investigating, black sites, for lack of a better word.
+Kind of like secret places, advanced technology programs, that sort of thing.
+And that's very difficult to do from an epistemological standpoint, because what happens is you start Encountering this world of kind of, like, Rick Doty bullshit, psychological manipulations, disinformation, cover stories, what have you.
+And there's a huge amount of intellectual discipline that you need to bring to that work as well as Research discipline.
+In order to try to prevent yourself from kind of getting sucked into to to some of these Stories that are difficult to verify and where you feel like you're being manipulated.
+And so at that time, I would just kind of stop and would say, I'm I'm not gonna go here.
+This is getting into places where I can't verify, that I don't feel comfortable, You know, studying from an empirical standpoint.
+And so the the subject of this talk is in a way perhaps a a kind of negative image of that talk where the object of study, I guess, for lack of a better word here, is that phenomena of disinformation, of, perceptual manipulation and that sort of thing.
+Can I ask the room to be a little bit more quiet?
+We still have some questions to solve about how to get fucked if there is number 1 here in front of me.
+Yeah.
+Thank you for the talk.
+Do you have any tips, Or is there any research, in regards to resilience or recovery on that?
+Yeah.
+Yeah.
+Yeah.
+So there is There is research that's being done on it, and it's tricky.
+The research that I know about also started Back in the days of the Korean War.
+And they were afraid of, again, soldiers defecting or, getting kind of caught up In, you know, propaganda operations and that sort of thing.
+And they started a strategy of what they called prebunking.
+And the idea was that by Exposing you to the kinds of propaganda that you were going to be expected to be exposed to, that you could sort of inoculate yourself.
+There's we have this sort of seen against that.
+And I know people are trying to take that approach now, and it does seem there is a kind of theory that That that to a certain extent, you can inoculate yourself as against certain kinds of things, but you have to be exposed to that material before you get exposed to this kind of rabbit hole y material.
+And I think that there's limits to that.
+And my intuition about that is based on the work of people like John Mulholland, and some of the things that I talked about in this talk Where I'm not sure the extent to which you can use your capacity for reason To override your, emotional responses or, they're kind of the parts of your brain that wanna make sense of patterns and things like that.
+This is a really good question.
+There's some there's certainly work is being done on that.
+Thank you very much.
+In between, actually, I'm going to go for a signal question there.
+There is as well something that they asked me, like, people, let's take care about the picture policy so not to take pictures of people That that's related to our Yeah.
+That's a start.
+Clear to you.
+Signal angel, you have a question from outer space.
+Yeah.
+The Internet is asking few questions about the game.
+Are you planning to open source it?
+Will there be Tap completion.
+And what's a good game what's a good way for people to play together if they're not here?
+Yes.
+A good way for people to play together with or not here is to self organize and talk to each other on the Internet.
+The game is accessible from the Internet right now.
+You can go to the the the website that I mentioned, cyclops.sh.
+You use the enrollment code 37 c 3, and you you can get going and playing.
+There are very rudimentary ways to communicate with other people inside the game, but I suggest just using those 3 communication tools to create, other channels with which to communicate people.
+I as I said in the slide as well, If you are if you get the furthest in the game or you're able even to win the game and you're not here in person, we you need to Find somebody who's physically present in order to collect, the prizes if you win them.
+Bon, number 2.
+Hello.
+Thanks for the talk.
+Why 2016?
+What did happen?
+What's the What could have possibly What's the indicator?
+2016.
+What is it?
+Well, a lot happened in 2016, obviously.
+You know, you're you you you kind of pick a date.
+You know?
+The history is not, you know, quantitative in that kind of way.
+And so With a lot of the with a date like that, you kind of you just try to identify a kind of inflection point, and and 2016 seems, Like a pretty, pretty compelling one.
+2016.
+Yeah.
+Well, are you 10 years ago, you were here?
+Well, 2016 was not it was a little bit closer than that.
+I was back here in I think the last time I was here was in twenty 13.
+Yeah.
+Hamburg?
+No.
+Was in Berlin.
+Was it in Berlin?
+I don't know.
+No.
+No.
+No.
+Can't remember.
+Hamburg, that was here.
+Yeah.
+It was here.
+Yeah.
+That was the the year when snowed in here.
+Oh, yeah.
+Yeah.
+Can I go to number 1?
+We still have some time for questions.
+Hi.
+I really loved your talk.
+Thank you.
+I'm usually really terrible at questions, so please bear with me.
+I'm terrible at answering them.
+We're all good.
+So, what got me really interested in this talk was actually the title and the description of it, And I'm probably not the only one.
+And my question is regarding that, really.
+It bore Really close resemblance to what people describe online as posting, especially, like, no periods, no sentencing, All caps.
+Was that the intention behind it?
+And, really, was the your intention also Being getting the big turnout you got.
+Oh, I I well, in the in the form of the talk, I'm sir I'm throwing a lot of material at you, a lot of images and things like That there is a part of the talk where I'm sort of trying to perform a little bit the thing that I'm also talking about.
+And that my my background is in art, and we always try to think about form Content as being kind of the same thing.
+And so I'm trying to do a little bit of that, but I'm still trying to do something that's intelligible, but also a little bit not intelligible.
+Thank you.
+Thank you.
+Number 2.
+Hello.
+Thank you for this very disturbing, however, still entertaining talk.
+PsyOps capitalism quite accurately describes the current hellhole of like this version of the simulation, if you will.
+I was Wondering if you have a take on this summer's UFO talks in congress, and if this is part of the greater psy up, or what do you think's going on there?
+Thank you.
+Yeah.
+That's a complicated topic.
+Big.
+So you may have gotten the impression from my talk that I, like, I think all UFOs is all bullshit and like, I actually don't think that.
+I'm I'm I'm making a much Smaller claim was regardless of whether UFOs are real or not, we know that they've been using psyops all the time.
+I have comp like, I don't know.
+I'm very confused.
+And at the same time, it is a subject that is Confusing.
+And where does that confusion come from?
+We don't we know some places where it comes from, but there might be other places of it of it that we don't know.
+So to me, it it is an interesting thing to Study because you there's so many different ways to try to get edit, and and none of them really work.
+So in terms of of the events over the summer, I am quite confident that that David Rush is not lying when he says that there's a bunch of people in the military who told him that there was UFOs in this hangar.
+Like, I I don't think he's lying.
+I also know that in the military as well, this meme is all over the I grew up in the military, and you're on a base, and you're like, what's over in that hangar.
+I was like, oh, that's where we keep the UFOs.
+Yeah.
+Right?
+Yeah.
+So there's a lot of different things that can be true at the same time.
+And I guess what's interesting to me about it is this conundrum that is That is such a powerful prompt to the imaginal, but that is also incredibly difficult to Try to research.
+Now when you look at the aftermath of of of of that, you know, event, things like the Schumer event amendment, which has recently sort of been gutted, The topic also pokes a lot of hornets' nests in the National Security State, particularly in parts of the inter developing, like, classified Technologies.
+And those are parts of the state that do not want to be poked.
+And so it's interesting to see what some of those responses are as well, regardless of whether UFOs are real or not.
